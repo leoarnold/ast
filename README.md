@@ -1,6 +1,7 @@
 # AST
 
 [![Build Status](https://travis-ci.org/whitequark/ast.svg?branch=master)](https://travis-ci.org/whitequark/ast)
+![.github/workflows/test.yml](https://github.com/whitequark/ast/workflows/.github/workflows/test.yml/badge.svg)
 [![Code Climate](https://codeclimate.com/github/whitequark/ast.svg)](https://codeclimate.com/github/whitequark/ast)
 [![Coverage Status](https://coveralls.io/repos/whitequark/ast/badge.svg?branch=master)](https://coveralls.io/r/whitequark/ast)
 
